@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **developer**, **tech explorer**, and **l
 - 🌱 I’m currently learning **Generative AI**, **Computer Vision**, and **Cloud Deployment**
 - 👯 I’m looking to collaborate on **open-source AI/ML projects**, **React-based applications**, and anything creative
 - 💬 Ask me about **Java, SQL, AI tools, and building full-stack projects**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kadithyabhaktha/) | [Instagram](https://www.instagram.com/_adibhakthaa07/?hl=en)
 - ⚡ Fun fact: I can turn a webcam and a few lines of code into a virtual whiteboard 🤯
 
 ---
